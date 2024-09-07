@@ -1,0 +1,7 @@
+func main(): int {
+    let x: f32 = 0;
+
+    print("Hello World");
+
+    return 0;
+}
